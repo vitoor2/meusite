@@ -1,0 +1,270 @@
+
+#cabecalho {
+  text-align:center;
+  background-color:grey;
+  position:relative;
+  top:-110px;
+  animation-name: jornal;
+animation-duration: 2s;
+animation-direction: reverse;
+animation-timing-function: ease-in-out;
+
+} 
+@keyframes jornal{
+  0% {
+    background-color: #fb2b49;
+    margin-left: 0;
+    width:1px;
+    height:1px;
+  }
+  75% {
+    background-color:red;
+    color:blue;
+  }
+  100% {
+    background-color: #bbefbf;    
+    margin-left: 90%;
+    border-radius: 50%;
+    width:150px;
+    height:150px;
+  } 
+} 
+
+#kz {
+ display:block;
+ width:50%;
+}
+
+#destaque {
+  color: lightseagreen;
+  text-align:center;
+  background-color:#8c7373;
+  position:relative;
+  top:-17px;
+  
+}
+
+.titulontc {
+  font-family:Arial; 
+  margin-left:10px;
+}
+
+.texto {
+  color:#696969;
+ font-size:16px;
+ font-family: Arial, sans-serif;
+ margin-left:10px;
+}
+
+#font {
+  position:relative;
+  float:right;
+  top:-41px;
+  font-size:21px;
+  color:#757580;
+}
+
+.verred {
+  color:red;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration:none;
+}
+
+hr {
+  width:100%;
+  position:relative;
+  top:-35px;
+}
+
+.sublegenda {
+  color:rgb(119,136,153);
+  position:relative;
+  top:-38px;
+  text-align:justify;
+  font-size:14px;
+  margin-left:10px;
+}
+
+#gg {
+
+color:black;
+  
+}
+
+mark {
+  background-color: lightcoral;
+}
+
+.facas {
+  position:relative;
+  top:-30px;
+  margin-left:10px;
+}
+
+#asbh {
+  font-size:15px;
+  color:red;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#testo {
+  color:#696969;
+ font-size:16px;
+ font-family: Arial, sans-serif;
+ margin-left:10px;
+ position:relative;
+ top:-40px;
+}
+
+
+.footer {
+  text-align:center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size:12px;
+}
+
+#contato {
+  text-align:center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#agaerre {
+  position:relative;
+  top:-8px;
+}
+
+#container {
+  float:right;
+  width: 40%;
+  position:relative;
+  top:-60px;
+  
+}
+
+nav ul li {
+  position:relative;
+  top:125px;
+  background-color: #7f32a8 ;
+  list-style:none;
+  text-decoration:none ;
+  right:25px;
+}
+
+nav ul li:hover {
+  cursor: pointer;
+  
+}
+
+nav ul li:visited {
+  color: darkred;
+}
+
+.simples {
+  margin-left:10px;
+  font-size:30px;
+  font-family: serif;
+  text-align:left;
+  position:relative;
+  top:-30px;
+}
+
+#titulo2 {
+  background-color:#8c7373;
+  position:relative;
+  top:-78px;
+  text-align:center;
+  color: darkgray;
+  
+}
+
+#supermercado {
+  width:50%;
+  position:relative;
+  top:-40px;
+}
+
+#noticia2 {
+  position:relative;
+  text-align:center;
+  top:-20px;
+}
+
+#otempo {
+  font-family: 'Times New Roman', Times, serif;
+  font-size:13px;
+}
+
+#otempo:visited {
+  color:red;
+}
+
+#otempo:link {
+  color:orange;
+}
+ 
+#texto2 {
+   color:#696969;
+ font-size:16px;
+ font-family: Arial, sans-serif;
+ margin-left:10px; 
+}
+
+#texto3 {
+    color:#696969;
+ font-size:16px;
+ font-family: Arial, sans-serif;
+ margin-left:10px;
+}
+
+#imagem3 {
+  width:50%;
+}
+
+#fontz {
+  color: darkcyan;
+  text-align:center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#fontz2 {
+  text-align:center;
+  position:relative;
+  top:-15px;
+}
+
+#gzk {
+  position:relative;
+  top:5px;
+}
+
+.imgsz {
+  position:relative;
+  width:35%;
+  right:3%;
+  border-color: black;
+  margin-left: 10px;
+}
+
+#texto4 {
+  color:black;
+ font-size:14px;
+ position:relative;
+ font-family: Arial, sans-serif;
+ margin-left:10px;
+ text-align: center;
+ top:-200px;
+ left:30%;
+}
+
+a {
+  text-decoration:none;
+}
+ 
+
+.jj:visited {
+  color:red;
+}
+
+.jj:link {
+  color:black;
+}
